@@ -1,0 +1,11 @@
+# Binares
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Testing
+*.test
+
+# DB folder
+db/**
